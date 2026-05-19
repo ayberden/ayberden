@@ -85,11 +85,3 @@
 <p align="left">•	Frontend & Design: JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS, Figma, D3.js<br>•	Backend & Frameworks: Node.js, PHP, Laravel, Flask, Vercel<br>•	Databases & Cloud: PostgreSQL, Supabase, Firebase, Git<br>•	Data Science & AI: Python, R (RStudio), PyTorch, Pandas, Kaggle, Anaconda, Jupyter</p>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayberden/ayberden/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayberden/ayberden/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ayberden/ayberden/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
