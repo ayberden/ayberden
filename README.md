@@ -85,7 +85,3 @@
 <p align="left">•	Frontend & Design: JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS, Figma, D3.js<br>•	Backend & Frameworks: Node.js, PHP, Laravel, Flask, Vercel<br>•	Databases & Cloud: PostgreSQL, Supabase, Firebase, Git<br>•	Data Science & AI: Python, R (RStudio), PyTorch, Pandas, Kaggle, Anaconda, Jupyter</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ayberden/ayberden/snake-output/snake.svg" alt="Snake animation" />
-
-###
